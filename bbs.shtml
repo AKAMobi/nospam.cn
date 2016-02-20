@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>�������ʼ���ȫ�ֲ� - BBS��̳</title>
+<title>反垃圾邮件完全手册 - BBS论坛</title>
 <link href="css/nospam.css" rel="stylesheet" type="text/css" />
 <!--#include virtual="/meta.html" -->
 </head>
@@ -10,22 +10,22 @@
 <body>
 
 <div class="nav">
-  <div class="thx"> ���Դ����׸��ҵļ��ˡ����ѡ�ͬ���Լ�����֧��������ɴ�������ǡ�</div>
-  <a href="buy.shtml" class="buy" style="color: #CC0000; font-weight:bold; margin-right: 70px; line-height: 24px">������ &gt;&gt;</a><a href="index.shtml">���ڱ���</a><a href="preface.shtml">Ȩ������</a><a href="review.shtml">��������</a><a href="author.shtml">���߽���</a><a href="download.shtml">�������</a><a href="product.shtml">��ز�Ʒ</a><a href="bbs.shtml" style="color: #CC0000">BBS��̳</a></div>
+  <div class="thx"> 谨以此书献给我的家人、朋友、同事以及所有支持我们完成此书的人们。</div>
+  <a href="buy.shtml" class="buy" style="color: #CC0000; font-weight:bold; margin-right: 70px; line-height: 24px">购买本书 &gt;&gt;</a><a href="index.shtml">关于本书</a><a href="preface.shtml">权威书序</a><a href="review.shtml">名家书评</a><a href="author.shtml">作者介绍</a><a href="download.shtml">相关下载</a><a href="product.shtml">相关产品</a><a href="bbs.shtml" style="color: #CC0000">BBS论坛</a></div>
   
 <div class="con">
-<!--p class="boss">���������ʼ���ȫ�ֲᡷBBS��̳��<a  onclick="urchinTracker('/urchin/outlink/wforum.zixia.net/text');" href="http://wforum.zixia.net/board.php?name=nospam_book" target="_blank">http://noSPAM_Book.wForum.zixia.net</a></p>
+<!--p class="boss">《反垃圾邮件完全手册》BBS论坛：<a  onclick="urchinTracker('/urchin/outlink/wforum.zixia.net/text');" href="http://wforum.zixia.net/board.php?name=nospam_book" target="_blank">http://noSPAM_Book.wForum.zixia.net</a></p>
 </p-->
 <p class="boss"><a  onclick="urchinTracker('/urchin/outlink/group.google.com/text');" 
 	href="http://groups-beta.google.com/group/noSpamCN?hl=zh"
 	target="_blank">
-	���������ʼ���ȫ�ֲᡷ BBS��̳�� >> �������</a>
+	《反垃圾邮件完全手册》 BBS论坛： >> 点击进入</a>
 </p>
 
-<!--div align="center"> <a  onclick="urchinTracker('/urchin/outlink/wforum.zixia.net/image');" href="http://wforum.zixia.net/board.php?name=nospam_book" target="_blank"><img src="images/pr_board.jpg" border=0 alt="�������ʼ���ȫ�ֲ�" longdesc="���ڵ�һ��ȫ�桢ϵͳ���ܷ������ʼ�������ר��" /></a> </div-->
+<!--div align="center"> <a  onclick="urchinTracker('/urchin/outlink/wforum.zixia.net/image');" href="http://wforum.zixia.net/board.php?name=nospam_book" target="_blank"><img src="images/pr_board.jpg" border=0 alt="反垃圾邮件完全手册" longdesc="国内第一本全面、系统介绍反垃圾邮件技术的专著" /></a> </div-->
 <div align="center"> <a  onclick="urchinTracker('/urchin/outlink/group.google.com/image');" 
 	href="http://groups-beta.google.com/group/noSpamCN?hl=zh"
-	target="_blank"><img src="images/pr_board.jpg" border=0 alt="�������ʼ���ȫ�ֲ�" longdesc="���ڵ�һ��ȫ�桢ϵͳ���ܷ������ʼ�������ר��" /></a> </div>
+	target="_blank"><img src="images/pr_board.jpg" border=0 alt="反垃圾邮件完全手册" longdesc="国内第一本全面、系统介绍反垃圾邮件技术的专著" /></a> </div>
 <p />
 <!--div align="right"><a  onclick="urchinTracker('/urchin/outlink/wforum.aka.cn');" href="http://wforum.aka.cn/" target="_blank"><img border="0" src="http://wforum.zixia.net/images/wforum.gif"/></a> <a   onclick="urchinTracker('/urchin/outlink/dev.kcn.cn');" href="http://dev.kcn.cn/" target="_blank"><img border="0" src="http://wforum.zixia.net/images/poweredby.gif"/></a></div-->
 

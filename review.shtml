@@ -3,92 +3,92 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=GBK" />
 <!--#include virtual="/meta.html" -->
-<title>�������ʼ���ȫ�ֲ� - ��������</title>
+<title>反垃圾邮件完全手册 - 名家书评</title>
 <link href="css/nospam.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
 <div class="nav">
-  <div class="thx"> ���Դ����׸��ҵļ��ˡ����ѡ�ͬ���Լ�����֧��������ɴ�������ǡ�</div>
-  <a href="buy.shtml" class="buy" style="color: #CC0000; font-weight:bold; margin-right: 70px; line-height: 24px">������ &gt;&gt;</a><a href="index.shtml">���ڱ���</a><a href="preface.shtml">Ȩ������</a><a href="review.shtml" style="color: #CC0000">��������</a><a href="author.shtml">���߽���</a><a href="download.shtml">�������</a><a href="product.shtml">��ز�Ʒ</a><a href="bbs.shtml">BBS��̳</a></div>
+  <div class="thx"> 谨以此书献给我的家人、朋友、同事以及所有支持我们完成此书的人们。</div>
+  <a href="buy.shtml" class="buy" style="color: #CC0000; font-weight:bold; margin-right: 70px; line-height: 24px">购买本书 &gt;&gt;</a><a href="index.shtml">关于本书</a><a href="preface.shtml">权威书序</a><a href="review.shtml" style="color: #CC0000">名家书评</a><a href="author.shtml">作者介绍</a><a href="download.shtml">相关下载</a><a href="product.shtml">相关产品</a><a href="bbs.shtml">BBS论坛</a></div>
   
 <div class="con">
 <ul type="square">
-  <li>�������ʼ��Ѿ���Ϊ�����ճ��������������Ҫ�������ߡ���������������ʼ����û�ж�Ӧ��Ч�ļ���������������������ǵĹ�����������ɺܴ�Ĳ��㡣���ԣ������������۵ķ������ʼ������ǵ�ǰ��������һ����Ҫ�Ļ��⣬Ӧ�ñ����������������� </li>
+  <li>“电子邮件已经成为我们日常工作、生活的重要交流工具。日益增多的垃圾邮件如果没有对应有效的技术进行治理，将会对我们的工作、生活造成很大的不便。所以，本书中所讨论的反垃圾邮件技术是当前互联网中一个重要的话题，应该被我们重视起来。” </li>
 </ul>
-<p align="left" class="boss">�����������������ϣ�<a target="_blank"  onclick="urchinTracker('/urchin/outlink/yoqoo.com');" href="http://YOQOO.COM">YOQOO.COM</a>�������Ѻ���˾�ܲã�����YoQoo.com  CEO��</p>
+<p align="left" class="boss">　　　　——古永锵（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/yoqoo.com');" href="http://YOQOO.COM">YOQOO.COM</a>，曾任搜狐公司总裁，现任YoQoo.com  CEO）</p>
 <ul type="square">
-  <li>�������ʼ��Ѳ��������ʼ�ɧ�ŵ����飬�Ѿ���ϵ����Ϣ��ȫ����෽�棬������ΪĿǰ���ർ�����簲ȫ�ͻ�����ȡ��һ����Ҫ;������Ϊ�ܴ�İ�ȫ���������繫�����������Ҽ������ѵõļ�˼���ԭ���ԺͿɲ����Եķ������ʼ������鼮���� </li>
+  <li>“垃圾邮件已不仅仅是邮件骚扰的事情，已经关系到信息安全的诸多方面，甚至成为目前许多导致网络安全和机密窃取的一个重要途径，成为很大的安全隐患和网络公害。本书是我见到的难得的兼顾技术原创性和可操作性的反垃圾邮件技术书籍。” </li>
 </ul>
-<p align="left" class="boss">������������������<a target="_blank"  onclick="urchinTracker('/urchin/outlink/venustech.com.cn');" href="http://WWW.VENUSTECH.COM.CN">VENUSTECH.COM.CN</a>�������ǳ���˾�ܲã�</p>
+<p align="left" class="boss">　　　　——严立（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/venustech.com.cn');" href="http://WWW.VENUSTECH.COM.CN">VENUSTECH.COM.CN</a>，启明星辰公司总裁）</p>
 <ul type="square">
-  <li>��zixia�ǶԼ���������������ִ��׷����ˡ�͸�������Ȿ�飬���ǲ����ܹ��˽⵽�������ʼ�����ؼ��������ܹ����ܵ��Լ����ľ����󾫵Ĺ���̬�Ⱥ��о��������� </li>
+  <li>“zixia是对技术有着深刻理解和执着追求的人。透过他的这本书，我们不仅能够了解到反垃圾邮件的相关技术，更能够感受到对技术的精益求精的工作态度和研究方法。” </li>
 </ul>
-<p align="left" class="boss">���� ����������С����<a target="_blank"  onclick="urchinTracker('/urchin/outlink/sohu.com');" href="http://SOHU.COM">SOHU.COM</a>���Ѻ����ܲã� </p>
+<p align="left" class="boss">　　 　　——王小川（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/sohu.com');" href="http://SOHU.COM">SOHU.COM</a>，搜狐副总裁） </p>
 <ul type="square">
-  <li>������ȫ������˷������ʼ��ĸ��ּ������Թ��ڻ����������ҵ�ļ����������ճ���Ӫ�зǳ���Ĳο���ֵ�����нϸߵĿɶ���ֵ���� </li>
+  <li>“本书全面介绍了反垃圾邮件的各种技术，对国内互联网相关企业的技术管理和日常运营有非常大的参考价值，具有较高的可读价值。” </li>
 </ul>
-<p align="left" class="boss">��������������D��<a target="_blank"  onclick="urchinTracker('/urchin/outlink/kong.net');" href="http://KONG.NET">KONG.NET</a>�����������ܲã� </p>
+<p align="left" class="boss">　　　　——李旸（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/kong.net');" href="http://KONG.NET">KONG.NET</a>，空中网副总裁） </p>
 <ul type="square">
-  <li>���Ȿ��ȫ�桢����ǳ���ؽ����˷������ʼ���ؼ������кܸߵ��Ķ��Ͳο���ֵ���� </li>
+  <li>“这本书全面、深入浅出地介绍了反垃圾邮件相关技术，有很高的阅读和参考价值。” </li>
 </ul>
-<p align="left" class="boss">������������������ �����ڣ�<a target="_blank"  onclick="urchinTracker('/urchin/outlink/LinuxVirtualServer.org');" href="http://LinuxVirtualServer.ORG">LVS</a>������¼Kernel�Ĺ���֪����Դ��ĿLVS��ʼ�ˣ�</p>
+<p align="left" class="boss">　　　　——章文嵩 副教授（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/LinuxVirtualServer.org');" href="http://LinuxVirtualServer.ORG">LVS</a>，已收录Kernel的国际知名开源项目LVS创始人）</p>
 <ul type="square">
   <li>&quot;This  book is an amazing valuable addition to anybody's collection that is interested  in email fraud, spams and internet abuse. It is a must have for people hope to  expand their horizons in anti-spam techniques.&quot; </li>
 </ul>
-<p align="left" class="boss">������������Halen Heng Ji(<a target="_blank"  onclick="urchinTracker('/urchin/outlink/nyu.edu');" href="http://NYU.EDU">NYU.EDU</a>��CS Ph.D)</p>
+<p align="left" class="boss">　　　　——Halen Heng Ji(<a target="_blank"  onclick="urchinTracker('/urchin/outlink/nyu.edu');" href="http://NYU.EDU">NYU.EDU</a>，CS Ph.D)</p>
 <ul type="square">
-  <li>�������ʼ����ִ����ճ������в��ɻ�ȱ�Ĺ�ͨ�ֶΣ��������ʼ��ĳ��ָ�ÿһ�������ʼ����ճ�ʹ���ߴ����˺ܶ���鷳��������ͨ�û���˵������Ժ�һЩ��������һЩ�������ʼ���ص�Ӧ�ã���������ʼ�ת�ֻ����ţ���ô�û����ܵ��ľͲ�ֻ�����ţ�����ǿ�ҵ�ɧ���ˣ���һ����˵�ܵ�������ɧ���û�����Ҫ���ѡ� ���ҵ������ڹ����Ĺ�ϵ�����˱��뿼������Ƶĵ��ż��豸���ú��ַ����ڱ�֤ϵͳ������ܡ����ٵ����С�©�е�����½�������ʼ������⡣**zixia����**�ĳ��������ṩ�˺ܺõĲο����ϣ��ڴ�����������ʼ��������൱ȫ�桢�����൱�������ڴ���İ����£��ܿ�ȷ�����ض�����Ӧ�û����µ������ʼ����������Ϊϵͳ��������ص��ȶ������ṩ�˺ܺõļ�����֤�� ��л����Ϊ���Ǵ������Ȿ���飬������ͬ���ܸ������������ </li>
+  <li>“电子邮件是现代人日常生活中不可或缺的沟通手段，但垃圾邮件的出现给每一个电子邮件的日常使用者带来了很多的麻烦。对于普通用户来说情况还稍好一些，但对于一些跟电子邮件相关的应用，例如电子邮件转手机短信，那么用户在受到的就不只是困扰，而是强烈的骚扰了，而一般来说受到这样的骚扰用户还需要付费。 不幸的是由于工作的关系，本人必须考虑所设计的电信级设备采用何种方案在保证系统最大性能、最少的误判、漏判的情况下解决垃圾邮件的问题。**zixia的书**的出现向我提供了很好的参考资料，在此书对于垃圾邮件的论述相当全面、分析相当独到，在此书的帮助下，很快确定了特定电信应用环境下的垃圾邮件解决方案，为系统在世界各地的稳定运行提供了很好的技术保证。 感谢作者为我们带来了这本好书，相信它同样能给你带来帮助。 </li>
 </ul>
-<p align="left" class="boss">�����������������<a target="_blank" onclick="urchinTracker('/urchin/outlink/zte.com.cn');"  href="http://http://www.zte.com.cn/">WWW.ZTE.COM.CN</a>������ͨѶҵ���Ʒ�ܹ��� </p>
+<p align="left" class="boss">　　　　——陈新宇（<a target="_blank" onclick="urchinTracker('/urchin/outlink/zte.com.cn');"  href="http://http://www.zte.com.cn/">WWW.ZTE.COM.CN</a>，中兴通讯业务产品总工） </p>
 <ul type="square">
-  <li>�����죬ÿһ���Ӵ� INTERNET ���˶�Ҫ�ܵ������ʼ���ɧ�ţ������������������Ϊ�ֱ��ɾ�������ʼ����˷��˺ܶ�ʱ�䡣��ʵ�����ǿ���ѡ�����෽ʽ�������ش��������ʼ����Ӷ���ʡʱ������������������ϸ�����˷������ʼ��ĸ�����Ч�ֶΡ���Щ�ֶ��ǽ����Ǵӱ�������ת�����������ķ��������������Ϊ�����ʼ���ɧ�Ŷ�ͷ�ۣ��������ֵ��һ������ </li>
+  <li>“今天，每一个接触 INTERNET 的人都要受到垃圾邮件的骚扰；大多数人消极防备，为分辩和删除垃圾邮件而浪费了很多时间。其实，我们可以选择许多方式来主动地处理垃圾邮件，从而节省时间和网络带宽。本书详细介绍了反垃圾邮件的各种有效手段。这些手段是将我们从被动防守转向主动出击的法宝。如果你正在为垃圾邮件的骚扰而头疼，本书绝对值得一读！” </li>
 </ul>
-<p align="left" class="boss">������������κ������<a target="_blank"  onclick="urchinTracker('/urchin/outlink/minigui.com');" href="http://MINIGUI.COM">MINIGUI.COM</a>����������Ƕ��ʽ��Դ������ĿMiniGUI������������ʼ�ˣ�</p>
+<p align="left" class="boss">　　　　——魏永明（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/minigui.com');" href="http://MINIGUI.COM">MINIGUI.COM</a>，国际著名嵌入式开源软件项目MiniGUI、飞漫软件创始人）</p>
 <ul type="square">
-  <li>������Է������ʼ�����������ȫ��Ľ��ܣ�������������۷���������������ʵ��������Apache����������������Դ��ƷSpamAssassin�͹��ڵ���ҵ�������ʼ�ϵͳΪ��������ʵս���⣬���ʼ�ϵͳ����Ա�Ϳ����߱ر��Ĳο��ֲᡣ�� </li>
+  <li>“本书对反垃圾邮件技术进行了全面的介绍，既有深入的理论分析，又有生动的实例，并以Apache软件基金会的著名开源产品SpamAssassin和国内的商业反垃圾邮件系统为例进行了实战讲解，是邮件系统管理员和开发者必备的参考手册。” </li>
 </ul>
-<p align="left" class="boss">�������������ۻԣ�<a target="_blank"  onclick="urchinTracker('/urchin/outlink/mop.com');" href="http://MOP.COM">MOP.COM</a>��ǧ��˾è����������Ӫ�ܼࣩ </p>
+<p align="left" class="boss">　　　　——邵辉（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/mop.com');" href="http://MOP.COM">MOP.COM</a>，千像公司猫扑网网络运营总监） </p>
 <ul type="square">
-  <li>�������ʼ������Ż�����Ӧ�õ��ش����⡣����������ʼ������Ļ���ԭ��������͸�������������ʼ������Ļ���˼�룬��ϵͳ�����˷������ʼ�����Ҫ����ԭ������ �صĲ�Ʒ����ͬ��һ�����еĽ��ܷ������ʼ���ͼ�飬�����ر�ǿ�����������ʼ��ĳ���������Ե�ѡ����ܵļ����������ء���׷�٣�������äĿ��ѡ�������� Ʒ����һ��ʹ�ñ��鲻�����ڷ������ʼ��Ĺ���ʵ���������棬Ҳ�ʺ������ڽ��� �����ʼ��йؼ����о�������רҵ��ʿ�ο���ͬʱ������ϣ���˽������ʼ��ͷ������ʼ�������չȫò����ʿ������Ҳ��һ���൱ȫ����ܵ������Ŷ���� </li>
+  <li>“垃圾邮件是困扰互联网应用的重大难题。本书从垃圾邮件发生的基本原理出发，透彻分析了垃圾邮件攻防的基本思想，并系统介绍了反垃圾邮件的主要技术原理及相 关的产品。不同于一般流行的介绍反垃圾邮件的图书，本书特别强调根据垃圾邮件的成因有针对性的选择可能的技术，或拦截、或追踪，而不是盲目的选择软件产 品。这一点使得本书不仅对于反垃圾邮件的工程实践大有裨益，也适合于正在进行 垃圾邮件有关技术研究工作的专业人士参考。同时，对于希望了解垃圾邮件和反垃圾邮件技术发展全貌的人士，本书也是一本相当全面和周到的入门读物。” </li>
 </ul>
-<p align="left" class="boss">��������������ï�� ��ʿ���廪��ѧ�������ģ�BBSˮľ�廪վ<a target="_blank"  onclick="urchinTracker('/urchin/outlink/smth.edu.cn');" href="http://smth.edu.cn">smth.edu.cn</a>�������鳤�� </p>
+<p align="left" class="boss">　　　　——陈茂科 博士（清华大学网络中心／BBS水木清华站<a target="_blank"  onclick="urchinTracker('/urchin/outlink/smth.edu.cn');" href="http://smth.edu.cn">smth.edu.cn</a>技术组组长） </p>
 <ul type="square">
-  <li>������ȫ��ϵͳ�Ľ����˷������ʼ���������ۺͿ����Լ���ʵ�֣����۶��ն˲�Ʒ�û�������������Կ�����Ա������Ϣ��ȫ��ػ��������кܸߵĲο���ֵ���� </li>
+  <li>“本书全面系统的介绍了反垃圾邮件的相关理论和可行性技术实现，无论对终端产品用户、相关软件测试开发人员还是信息安全监控机构都具有很高的参考价值。” </li>
 </ul>
-<p align="left" class="boss">��������������̫�� ��ʿ��<a target="_blank"  onclick="urchinTracker('/urchin/outlink/xoops.org.cn);"  href="http://XOOPS.ORG.CN">XOOPS.ORG.CN</a>������������Դ������ĿXOOPS��Ŀ����Ա�� </p>
+<p align="left" class="boss">　　　　——姜太文 博士后（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/xoops.org.cn);"  href="http://XOOPS.ORG.CN">XOOPS.ORG.CN</a>，国际著名开源软件项目XOOPS项目管理员） </p>
 <ul type="square">
-  <li>�������ȫ��ϵͳ�Ľ����˷������ʼ�������������߶���ġ�ʵս�����飬����˱Ƚ�ʵ�õķ������ʼ��������� </li>
+  <li>“该书较全面系统的介绍了反垃圾邮件技术，结合作者多年的‘实战’经验，提出了比较实用的反垃圾邮件方法。” </li>
 </ul>
-<p align="left" class="boss">�������������ź� ��ʿ��<a target="_blank"  onclick="urchinTracker('/urchin/outlink/cert.org.cn');" href="http://WWW.CERT.ORG.CN">WWW.CERT.ORG.CN</a>�����Ҽ��������Ӧ����������Э�����ĸ߼�����ʦ�� </p>
+<p align="left" class="boss">　　　　——张鸿 博士（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/cert.org.cn');" href="http://WWW.CERT.ORG.CN">WWW.CERT.ORG.CN</a>，国家计算机网络应急技术处理协调中心高级工程师） </p>
 <ul type="square">
-  <li>������ƾ������ḻ�ķ������������飬�ڱ�����ȫ��Ľ����˷������ʼ��ĸ�����������ϣ���˽⻥�����ʼ���ȫ����ôһ��Ҫ�Ķ����飬������ʹ���˽⵽�ḻ�����ۺ�ʵ��֪ʶ���� </li>
+  <li>“作者凭借着其丰富的反垃圾工作经验，在本书中全面的介绍了反垃圾邮件的各项技术。如果你希望了解互联网邮件安全，那么一定要阅读本书，它可以使你了解到丰富的理论和实践知识。” </li>
 </ul>
-<p align="left" class="boss">����������������壨<a target="_blank"  onclick="urchinTracker('/urchin/outlink/world2.cn');" href="http://WORLD2.CN">WORLD2.CN</a>������������³����������維�³��� </p>
+<p align="left" class="boss">　　　　——池宇峰（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/world2.cn');" href="http://WORLD2.CN">WORLD2.CN</a>，洪恩软件董事长，完美世界董事长） </p>
 <ul type="square">
-  <li>��������ʼ����ڶ෴�������������˷����������˸��ּ�����˼�룬ʵ�ֺ���ȱ�㣬���е����ʼ���ع������˿��Դ��п�������������Ľ�ȫ�����Ϣ���� </li>
+  <li>“该书对邮件的众多反垃圾技术进行了分析，分析了各种技术的思想，实现和优缺点，进行电子邮件相关工作的人可以从中看到反垃圾方向的较全面的信息。” </li>
 </ul>
-<p align="left" class="boss">���������������أ�<a target="_blank"  onclick="urchinTracker('/urchin/outlink/sohu.com');" href="http://SOHU.COM">SOHU.COM</a>/<a target="_blank"  onclick="urchinTracker('/urchin/outlink/newsmth.net');" href="http://NewSMTH.Net">NewSMTH.Net</a>���Ѻ�������Ӫ�ܼ࣬ˮľ������Ӫ�ܼࣩ </p>
+<p align="left" class="boss">　　　　——周霖（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/sohu.com');" href="http://SOHU.COM">SOHU.COM</a>/<a target="_blank"  onclick="urchinTracker('/urchin/outlink/newsmth.net');" href="http://NewSMTH.Net">NewSMTH.Net</a>，搜狐网络运营总监，水木社区运营总监） </p>
 <ul type="square">
-  <li>��������õ����ʼ����ҹ����ʼ��İ�ȫ����ô����һ�����ɲ����ĺ��顣�� </li>
+  <li>“如果你用电子邮件而且关心邮件的安全，那么这是一本不可不读的好书。” </li>
 </ul>
-<p align="left" class="boss">�������������ű��<a target="_blank"  onclick="urchinTracker('/urchin/outlink/microsoft.com');" href="http://MICROSOFT.COM">MICROSOFT.COM</a>/<a target="_blank"  onclick="urchinTracker('/urchin/outlink/bbs.pku.edu.cn');" href="http://BBS.PKU.EDU.CN">BBS.PKU.EDU.CN</a>��΢�������о�Ժ�о�Ա��ԭ����δ��BBSվ����</p>
+<p align="left" class="boss">　　　　——张本宇（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/microsoft.com');" href="http://MICROSOFT.COM">MICROSOFT.COM</a>/<a target="_blank"  onclick="urchinTracker('/urchin/outlink/bbs.pku.edu.cn');" href="http://BBS.PKU.EDU.CN">BBS.PKU.EDU.CN</a>，微软亚洲研究院研究员，原北大未名BBS站长）</p>
 <ul type="square">
-  <li>��������ϸ�����˷������ʼ��ı���֪ʶ����ؼ����������ʵ����һ�׻��ڿ�׷���Լ��ķ������ʼ����������м�ǿ��ʵ��ָ�����塣�� </li>
+  <li>“本书详细介绍了反垃圾邮件的背景知识及相关技术，提出并实现了一套基于可追查性检查的反垃圾邮件方案，具有极强的实践指导意义。” </li>
 </ul>
-<p align="left" class="boss">�������������Ỷ ��ʿ��<a target="_blank"  onclick="urchinTracker('/urchin/outlink/math.pku.edu.cn');" href="http://WWW.MATH.PKU.EDU.CN">WWW.MATH.PKU.EDU.CN</a>��������ѧ��ѧѧԺ�� </p>
+<p align="left" class="boss">　　　　——俞欢 博士（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/math.pku.edu.cn');" href="http://WWW.MATH.PKU.EDU.CN">WWW.MATH.PKU.EDU.CN</a>，北京大学数学学院） </p>
 <ul type="square">
-  <li>�������Ϊȫ����꾡�����˵�ǰ�������ʼ��Ĺؼ���������������Ӫ�����в��ɶ�õ�һ�����顣�� </li>
+  <li>“本书较为全面的详尽介绍了当前反垃圾邮件的关键技术，是网络运营工作中不可多得的一本好书。” </li>
 </ul>
-<p align="left" class="boss">������������Ҧ����<a target="_blank"  onclick="urchinTracker('/urchin/outlink/yoqoo.com');" href="http://YOQOO.COM">YOQOO.COM</a>���ſ�����ϯ�ܹ�ʦ�� </p>
+<p align="left" class="boss">　　　　——姚键（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/yoqoo.com');" href="http://YOQOO.COM">YOQOO.COM</a>，优酷网首席架构师） </p>
 <ul type="square">
-  <li>���Ȿ���Ϊȫ������Ľ����˷������ʼ���ؼ��������нϸߵĲο���ֵ�͹㷺����ʵָ�����塣�� </li>
+  <li>“这本书较为全面深入的介绍了反垃圾邮件相关技术，具有较高的参考价值和广泛的现实指导意义。” </li>
 </ul>
-<p align="left" class="boss">���������������<a target="_blank"  onclick="urchinTracker('/urchin/outlink/tom.com');" href="http://TOM.COM">TOM.COM</a>��TOM��������֧�����İ�ȫ���ž����� </p>
+<p align="left" class="boss">　　　　——程宇（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/tom.com');" href="http://TOM.COM">TOM.COM</a>，TOM在线网络支持中心安全部门经理） </p>
 <ul type="square">
-  <li>����������ʵ���ĽǶȿ����˽ⷴ�����ʼ������ķ������棬�����Լ��ķ������ʼ�ϵͳ���������㲻����ѡ�񡣡� </li>
+  <li>“如果你想从实践的角度快速了解反垃圾邮件技术的方方面面，构筑自己的反垃圾邮件系统，本书是你不错的选择。” </li>
 </ul>
-<p align="left" class="boss">���������������Σ�<a target="_blank"  onclick="urchinTracker('/urchin/outlink/ytht.net');" href="http://YTHT.NET">YTHT.NET</a>������һ����ͿBBS��ʼ�ˣ� </p>
+<p align="left" class="boss">　　　　——吴涛（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/ytht.net');" href="http://YTHT.NET">YTHT.NET</a>，北大一塌糊涂BBS创始人） </p>
 
 
 <!--#include virtual="/footer.html" -->
