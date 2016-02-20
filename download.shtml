@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>反垃圾邮件完全手册 - 相关下载</title>
+<!--#include virtual="/meta.html" -->
+<link href="css/nospam.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div class="nav">
+  <div class="thx"> 谨以此书献给我的家人、朋友、同事以及所有支持我们完成此书的人们。</div>
+  <a href="buy.shtml" class="buy" style="color: #CC0000; font-weight:bold; margin-right: 70px; line-height: 24px">购买本书 &gt;&gt;</a><a href="index.shtml">关于本书</a><a href="preface.shtml">权威书序</a><a href="review.shtml">名家书评</a><a href="author.shtml">作者介绍</a>
+<a href="download.shtml" style="color: #CC0000">相关下载</a><a href="product.shtml">相关产品</a><a href="bbs.shtml">BBS论坛</a></div>
+
+<h3 class="align_bottom">样章阅读</h3>
+<ul>
+<li><a onclick="urchinTracker('/urchin/read/chap6');" href="/download/noSPAM_Chapter_6.pdf" target="_blank">《反垃圾邮件完全手册》第六章</a></li>
+<li><a onclick="urchinTracker('/urchin/read/chap7');" href="/download/noSPAM_Chapter_7.pdf" target="_blank">《反垃圾邮件完全手册》第七章</a></li>
+<li><a onclick="urchinTracker('/urchin/read/chap9');" href="/download/noSPAM_Chapter_9.pdf" target="_blank">《反垃圾邮件完全手册》第九章</a></li>
+</ul>
+
+
+
+<div style="float:right; text-align:right;" width=300 height=377>
+<a href="buy.shtml" class="boss">
+<img src="images/nospam_bookmark.jpg" width="250" height="696" align="top" style="border: none; margin-top:0px; margin-right:10px;" alt="反垃圾邮件完全手册" /><br />
+购买本书 &gt;&gt; 
+</a>
+</div>
+
+
+<!-- div class="con" style="float:right; text-align:right;">
+<img src="images/nospam_bookmark.jpg" align="top" style="margin-top:81px; margin-right:20px;" alt="反垃圾邮件完全手册" />
+<a href="buy.shtml" class="boss">购买本书 &gt;&gt; </a>
+</div -->
+
+<p class="boss">本书配套光盘：<a onclick="urchinTracker('/urchin/download/noSPAM_Book_CD');" href="download/noSPAM_Book_CD.zip">点击这里下载</a></p>
+<h3 class="align_bottom">样章阅读</h3>
+<ul>
+<li><a onclick="urchinTracker('/urchin/read/chap6');" href="/download/noSPAM_Chapter_6.pdf" target="_blank">《反垃圾邮件完全手册》第六章</a></li>
+<li><a onclick="urchinTracker('/urchin/read/chap7');" href="/download/noSPAM_Chapter_7.pdf" target="_blank">《反垃圾邮件完全手册》第七章</a></li>
+<li><a onclick="urchinTracker('/urchin/read/chap9');" href="/download/noSPAM_Chapter_9.pdf" target="_blank">《反垃圾邮件完全手册》第九章</a></li>
+</ul>
+
+
+
+<pre>
+│  
+│  《反垃圾邮件完全手册》主页.url
+│  <a href="http://nospam.cn"><b>http://nospam.cn</b></a>
+│  
+├─反垃圾邮件相关软件
+│  ├─服务器端反垃圾软件
+│  │      Mail-SpamAssassin-3.1.7.tar.gz
+│  │      qmail-1.03.tar.gz
+│  │      spamcontrol-2212.zip
+│  │      
+│  ├─邮件地址猎取软件
+│  │      1stMassMailer.exe
+│  │      AtomicMailSender.exe
+│  │      ehoopost.exe
+│  │      
+│  ├─邮件客户端软件
+│  │  └─FoxMail v5.0
+│  │          fm50chb2.exe
+│  │          
+│  └─邮件批量发送软件
+│          AtomicEmailHunter.exe
+│          易虎商务扫描大师.exe
+│          易虎商务搜索大师.exe
+│          
+└─章节演示录像
+    ├─ch2
+    │      1st_Mass_Mailer.avi
+    │      Atomic_Email_Hunter.1.avi
+    │      Atomic_Email_Hunter.2.avi
+    │      Atomic_Mail_Sender.avi
+    │      亿虎商业扫描大师.avi
+    │      亿虎商业搜索大师.avi
+    │      亿虎商业群发大师.avi
+    │      
+    ├─ch3
+    │  ├─foxmail
+    │  │      反垃圾选项.avi
+    │  │      设置发送身份认证.avi
+    │  │      设置邮件内容过滤.avi
+    │  │      
+    │  └─outlook
+    │          反垃圾邮件设置.avi
+    │          设置内容过滤.avi
+    │          设置邮件发送身份认证.avi
+    │          
+    └─ch4
+            SMTP工作过程.avi
+            解析sina的域名.avi
+            解析sina的邮件域.avi</pre>
+</div>
+
+
+<!--#include virtual="/footer.html" -->

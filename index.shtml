@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+<link href="css/nospam.css" rel="stylesheet" type="text/css" />
+<!--#include virtual="/meta.html" -->
+<title>反垃圾邮件完全手册 - 关于本书</title>
+</head>
+
+<body>
+
+<div class="nav">
+  <div class="thx"> 谨以此书献给我的家人、朋友、同事以及所有支持我们完成此书的人们。</div>
+  <a href="buy.shtml" class="buy" style="color: #CC0000; font-weight:bold; margin-right: 70px; line-height: 24px; margin-right: 70px; line-height: 24px">购买本书 &gt;&gt;</a><a href="index.shtml" style="color: #CC0000">关于本书</a><a href="preface.shtml">权威书序</a><a href="review.shtml">名家书评</a><a href="author.shtml">作者介绍</a><a href="download.shtml">相关下载</a><a href="product.shtml">相关产品</a><a href="bbs.shtml">BBS论坛</a></div>
+  
+<div class="con">
+  <p>电子邮件大大降低了信息的传播成本，但是垃圾邮件也随之产生。笔者作为国内互联网的较早用户，使用的是自己注册的域名的电子邮件地址，从一开始使用至今一直没有变过，该邮件地址在国内互联网发展初期曾注册过许多网站服务，因此成为垃圾邮件的目标。</p>
+  <p>笔者的邮件地址在2000年即每天收到近百封垃圾邮件，因此从那时起就开始关注垃圾邮件的控制方法。由于市场一直未有很强劲的需求，因此这项研究一直处于断断续续之间。但收获是，从对邮件协议似懂非懂地略知一二到现在比较深入的了解。</p>
+<div  style="float:right; text-align:right;" width=300 height=377>
+<a href="buy.shtml" class="boss">
+<img src="images/nospam_cover.jpg" width="300" height="377" align="top" style="margin-top:0px; margin-right:10px; border:none;" alt="反垃圾邮件完全手册" /><br />
+购买本书 &gt;&gt; 
+</a>
+</div>
+
+  <p> 2004年1月底，国家四部委联合发文整治垃圾邮件和不良信息，快速启动了国内反垃圾邮件的市场，反垃圾邮件产品厂商风起云涌，也出现了一些垃圾邮件和反垃圾邮件技术分析的图书，但无论是厂商宣传的技术还是这些图书中分析的技术，都很难从根本上解决垃圾邮件问题，因此分析、汇总了自己多年了解的技术和推荐的技术，整理出一本比较全面的反垃圾邮件技术书籍。本书在对垃圾邮件的产生机理进行分析和总结的基础上，对反垃圾邮件的各种技术进行了比较全面的介绍。</p>
+  <p> 笔者认为反垃圾邮件仅仅是这类产品的一部分技术，这类产品应该总称为邮件安全产品，至少应当包括反垃圾邮件、反邮件病毒、内容过滤等功能，还可能包括邮件溯源、邮件审计等功能。当然，作为一个安全产品，日志及日志分析是不可缺少的一部分。本书对这些相关的技术作了比较全面的分析、介绍。</p>
+  <p> 此外，本书还对邮件安全控制中涉及的法律等非技术问题进行了简单的探讨。</p>
+  <p>本书供如下几种读者参考：</p>
+  <ol>
+    <li> <strong>邮件安全产品用户</strong>：本书为他们提供比较邮件安全产品功能、性能的技术基础。目前许多用户不了解邮件安全产品，常常只是被厂商所左右。通过阅读本书，读者们可以对邮件安全产品有一个更加清晰和全面认识，从而更好的选择和使用邮件安全产品。</li>
+    <li><strong> 邮件安全产品开发人员</strong>：本书为他们提供改进其邮件安全产品的技术参考。</li>
+    <li> <strong>邮件安全产品测试人员</strong>：本书为他们了提供一个相对全面客观的测试方法应考虑的因素的参考。目前笔者了解的一些测试实验室的测试方法过于片面，不能很好地反应产品的实际效果和性能，因此有要在了解反垃圾邮件技术原理的基础上，对现有的测试方法进行改进。</li>
+    <li><strong> 反不良信息监控机构</strong>：本书可以作为良好监控、全面监控、有效监控的有益参考。</li>
+  </ol>
+  <p>本书与2004年9月已基本成稿，但由于工作繁忙一直无法成书。感谢瞿华先生对本书的大量后期整理和补充工作，他的工作才使本书真正完稿得以出版。</p>
+  <p>由于反垃圾邮件技术处于发展阶段，我们的研究尚在研究过程中，本书内容难免有不足之处，欢迎读者朋友与我们讨论，共同推进中国邮件安全技术的大发展。本书的进一步补充和勘误将在<a href="http://www.tup.tsinghua.edu.cn">http://www.tup.tsinghua.edu.cn</a>和<a href="
+http://www.nospam.cn">http://nospam.cn</a>上随时进行更新，相关的软件业将在网站上提供下载，读者的任何意见和建议可给我们发邮件：<img src="images/email.gif" alt="联系我们"/>。</p>
+  <p>最后，感谢杨家就和许石青在设计和页面制作方面的帮助，让我能很快的完成这个网站。
+  </p>
+  <p align="right">作者：<a href="author.shtml#okboy">陈勇</a>　<a href="author.shtml#zixia">李卓桓</a>　<a href="author.shtml#roy">瞿华</a></p>
+  <p align="right">2006年7月</p>
+
+
+<!--#include virtual="/footer.html" -->

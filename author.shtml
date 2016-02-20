@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>反垃圾邮件完全手册 - 作者介绍</title>
+<link href="css/nospam.css" rel="stylesheet" type="text/css" />
+<!--#include virtual="/meta.html" -->
+</head>
+
+<body>
+
+<div class="nav">
+  <div class="thx"> 谨以此书献给我的家人、朋友、同事以及所有支持我们完成此书的人们。</div>
+  <a href="buy.shtml" class="buy" style="color: #CC0000; font-weight:bold; margin-right: 70px; line-height: 24px">购买本书 &gt;&gt;</a><a href="index.shtml">关于本书</a><a href="preface.shtml">权威书序</a><a href="review.shtml">名家书评</a><a href="author.shtml" style="color: #CC0000">作者介绍</a><a href="download.shtml">相关下载</a><a href="product.shtml">相关产品</a><a href="bbs.shtml">BBS论坛</a></div>
+  
+<div class="con">
+<a name="okboy"></a>
+<h3 class="boss align_bottom">陈勇(网名OKboy)： </h3>
+<a  onclick="urchinTracker('/urchin/outlink/okboy_big');" 
+	target="_blank" href="images/big_photo_okboy.jpg"><img border=0 align=right alt="反垃圾邮件完全手册 - 作者：陈勇" src="images/small_photo_okboy.jpg" title='点击看完整尺寸的陈勇照片'/></a>
+
+<ul>
+  <li>毕业于清华大学电子工程系，网际江湖科技有限公司创始人，从事IPTV/网络视频及P2P应用的研究工作</li>
+  <li> 水木清华BBS(<a target="_blank"  onclick="urchinTracker('/urchin/outlink/smth.org');" 
+	href="http://smth.org">smth.org</a>)的域名持有人和水木清华BBS元老</li>
+  <li>曾任清华紫光、比威网络等公司技术总监、启明星辰高级技术顾问，创办水木信安技术有限公司(<!--a target="_blank" href="http://smth.com"-->smth.com<!--/a-->)，长期从事网络安全、互联网应用的研发和探索工作</li>
+  <li> 主持国家863关于反垃圾邮件的项目，协助国家相关部门保障邮件安全工作及反垃圾邮件标准制定工作</li>
+  <li>对新技术、新产品、新服务和新产业有着敏锐的洞察力和判断力，拥有相关领域多项专利技术</li>
+  <li> 喜爱攀岩、滑雪、越野、滑翔伞等运动，滑翔伞A级运动员<br />
+  </li>
+</ul>
+<br />
+<a name="zixia"></a>
+<h3 class="boss align_bottom">李卓桓(<a  onclick="urchinTracker('/urchin/outlink/googlesearch/zixia');" 
+	href="http://www.google.com/search?hl=zh-CN&q=zixia"
+	target="_blank">网名zixia</a>，<a target="_blank"  onclick="urchinTracker('/urchin/outlink/zixia.net');" 
+		href="http://www.zixia.net">http://zixia.net</a>)：</h3>
+<a target="_blank"  onclick="urchinTracker('/urchin/photo/zixia_big');" 
+href="images/big_photo_zixia.jpg"><img border=0 align=right alt="反垃圾邮件完全手册 - 作者：李卓桓" src="images/small_photo_zixia.jpg" title='点击看完整尺寸的李卓桓照片'/></a>
+<ul>
+  <li>现任合一网络技术有限公司（<a target="_blank"  onclick="urchinTracker('/urchin/outlink/1verge.com');" 
+	href="http://1verge.com">1Verge.com</a>）首席科学家</li>
+  <li> <a  onclick="urchinTracker('/urchin/outlink/aka.cn');" 
+	href="http://www.aka.cn" target="_blank">北京阿卡信息技术有限公司</a>总裁、创始人，水木信安（北京）科技有限公司副总裁</li>
+  <li> 1997年考入清华大学，曾任<a  onclick="urchinTracker('/urchin/outlink/smth.org');" 
+	target="_blank" href="http://smth.org">水木清华BBS</a>站长，创建教育网内知名站点<a target="_blank"  
+		onclick="urchinTracker('/urchin/outlink/zixia.net');" href="http://www.zixia.net">zixia.net</a></li>
+  <li> 2000年出版<a  onclick="urchinTracker('/urchin/outlink/baidusearch/LinuxNetworkBook');" 
+	href="http://www.baidu.com/s?wd=%C0%EE%D7%BF%BB%B8+Linux%CD%F8%C2%E7%B1%E0%B3%CC&cl=3" 
+	target="_blank">《Linux网络编程》</a>一书（机械工业出版社）
+  </li>
+  <li> 曾任职于<a target="_blank"  onclick="urchinTracker('/urchin/outlink/tom.com');" 
+	href="http://Tom.com">Tom.com</a>、<a target="_blank"  onclick="urchinTracker('/urchin/outlink/chinaren.com');" 
+	href="http://ChinaRen.com">ChinaRen.com</a>
+	等多家知名网站及恒信数码、清华紫光比威等网络技术公司，长期致力于互联网研发工作，特别是在反垃圾邮件领域有深入研发经验</li>
+  <li> 热爱<a  onclick="urchinTracker('/urchin/outlink/superwing.com.cn');" 
+	href="http://www.superwing.com.cn" target="_blank">滑翔伞运动</a>，滑翔伞B级运动员，<a  onclick="urchinTracker('/urchin/outlink/soaring.org.cn');" 
+	href="http://www.soaring.org.cn/overrall.html" target="_blank">
+	2005年中国龙山滑翔伞锦标赛名列29
+	</a>
+  </li>
+  <li>叁级<a  onclick="urchinTracker('/urchin/outlink/crsa.org');" 
+	href="http://www.crsa.org" target="_blank">业余无线电</a>爱好者，呼号<a  onclick="urchinTracker('/urchin/outlink/qsl.net');" 
+	href="http://www.qsl.net/bg1fmo/index.html" target="_blank">BG1FMO</a></li>
+</ul>
+<a name="roy"></a>
+<h3 class="boss align_bottom">瞿华(网名roy)：</h3>
+<a target="_blank"  onclick="urchinTracker('/urchin/outlink/photo/roy_big');" 
+	href="images/big_photo_roy.jpg"><img border=0 align=right alt="反垃圾邮件完全手册 - 作者：瞿华" src="images/small_photo_roy.jpg" title='点击看完整尺寸的瞿华照片'/></a>
+
+<ul>
+  <li> 毕业于清华大学机械工程系，现在清华大学计算机系攻读工程硕士
+  </li>
+  <li> 现任紫光股份有限公司（原清华紫光股份有限公司）网络主管
+  </li>
+  <li> 2000年与李卓桓合作《Linux网络编程》一书（机械工业出版社）
+  </li>
+  <li> 长期致力于企业网络安全与管理，企业信息应用研发工作
+  </li>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</ul>
+<!--#include virtual="/footer.html" -->

@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>反垃圾邮件完全手册 - 购买本书</title>
+<link href="css/nospam.css" rel="stylesheet" type="text/css" />
+<!--#include virtual="/meta.html" -->
+</head>
+
+<body>
+<div class="nav">
+  <div class="thx"> 谨以此书献给我的家人、朋友、同事以及所有支持我们完成此书的人们。</div>
+  <a href="buy.shtml" class="buy" style="color: #CC0000; font-weight:bold; margin-right: 70px; line-height: 24px">购买本书 &gt;&gt;</a><a href="index.shtml">关于本书</a><a href="preface.shtml">权威书序</a><a href="review.shtml">名家书评</a><a href="author.shtml">作者介绍</a><a href="download.shtml">相关下载</a><a href="product.shtml">相关产品</a><a href="bbs.shtml">BBS论坛</a></div>
+
+<div class="con" style="float: right;">
+<br>
+</div>
+
+<div class="con">
+<p>目前可以在全国各大书店买到《<b>反垃圾邮件完全手册</b>》。</p>
+
+<h3 class="align_bottom">在网上书店直接订购：</h3>
+<ul class="boss">
+  <li><a target="_blank" onclick="urchinTracker('/urchin/buy/china-pub');" href="http://www.china-pub.com/search/power_search/power_search.asp?key1=%B7%B4%C0%AC%BB%F8%D3%CA%BC%FE%CD%EA%C8%AB%CA%D6%B2%E1">《反垃圾邮件完全手册》 - 互动出版网(China-pub</a>)</li>
+
+  <li><a target="_blank"  onclick="urchinTracker('/urchin/buy/huachu');" href="http://www.huachu.com.cn/itbook/booklist.asp?tsmc=%B7%B4%C0%AC%BB%F8%D3%CA%BC%FE%CD%EA%C8%AB%CA%D6%B2%E1+&amp;andor=and">《反垃圾邮件完全手册》 - 华储网</a></li>
+
+  <li><a target="_blank"  onclick="urchinTracker('/urchin/buy/dangdang');" href="http://search.dangdang.com/dangdang.dll?key=%B7%B4%C0%AC%BB%F8%D3%CA%BC%FE%CD%EA%C8%AB%CA%D6%B2%E1&amp;selbook=1&amp;selmusic=0&amp;selmovie=0&amp;key1=&amp;key2=&amp;key3=&amp;key4=&amp;key5=&amp;mode=&amp;catalog=">《反垃圾邮件完全手册》 - 当当网</a></li>
+
+  <!--li><a target="_blank"  onclick="urchinTracker('/urchin/buy/joyo');" href="http://www.joyo.com/search/search.asp?searchType=1&amp;searchWord=%B7%B4%C0%AC%BB%F8%D3%CA%BC%FE%CD%EA%C8%AB%CA%D6%B2%E1&amp;Go.x=0&amp;Go.y=0&amp;searchKind=name&amp;bestSaleNum=3&amp;uid=wws7n35kr97wuuwmaas7s7sgs&amp;pageletid=headsearch">《反垃圾邮件完全手册》 - 卓越网</a>(未上架)  </li-->
+
+</ul>
+
+<h3 class="align_bottom">样章阅读</h3>
+<ul>
+<li><a onclick="urchinTracker('/urchin/read/chap6');" href="/download/noSPAM_Chapter_6.pdf" target="_blank">《反垃圾邮件完全手册》第六章</a></li>
+<li><a onclick="urchinTracker('/urchin/read/chap7');" href="/download/noSPAM_Chapter_7.pdf" target="_blank">《反垃圾邮件完全手册》第七章</a></li>
+<li><a onclick="urchinTracker('/urchin/read/chap9');" href="/download/noSPAM_Chapter_9.pdf" target="_blank">《反垃圾邮件完全手册》第九章</a></li>
+</ul>
+
+
+
+<!--#include virtual="/footer.html" -->
